@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Menú de pestañas</string>
+
+    <string name="principal">Principal</string>
+    <string name="galeria">Galería</string>
+    <string name="formulario">Formulario</string>
+
+    <string-array name="Canciones">
+        <item>Hey Jude</item>
+        <item>Devuelveme a mi Chica</item>
+        <item>Billie Jean</item>
+    </string-array>
+
+
+    <string name="pausar">Pausar</string>
+
+    <string name="conclusion">La implementación del TabLayout en la aplicación, hace mas interactiva para el usuario, a través de sus pestañas bien organizadas, el usuario puede acceder fácilmente a diferentes secciones, como la reproducción de audio y el formulario de calificación.\n\nLa inclusión de barras de progreso en el TabLayout facilita el control del tiempo de reproducción de las canciones, permitiendo a los usuarios ajustar de manera precisa el punto en el que desean escuchar. \n\nAdemás, la posibilidad de calificar la aplicación o las canciones directamente desde el TabLayout.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
